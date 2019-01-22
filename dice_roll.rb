@@ -1,6 +1,6 @@
 def roll
-rolls (1..6)
-rand(rolls)
-
-end
-  roll
+   number = rand(1..6) 
+   puts number 
+    
+    end
+      roll
